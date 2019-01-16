@@ -69,5 +69,6 @@
 ### 图片演示 
 *首页
 ![首页](https://gitee.com/uploads/images/2018/0129/114306_9b9a3172_330414.jpeg "2018-01-29_112236.jpg")
-*详细页
+
+URL：https://qhsyz.cc/
 
